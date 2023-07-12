@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Open+Sans&family=Roboto:wght@700&display=swap");
+
+.img-cover {
+  background: linear-gradient(rgba(2, 0, 0, 0.1), rgba(15, 15, 15, 0.8)),
+    url("../images/pexels-kuiyibo-campos-16938495.jpg") center/cover no-repeat
+      fixed;
+}
+
+.height {
+  min-height: 92vh;
+}
+
+.title-underline {
+  width: 20rem;
+  background-color: blanchedalmond;
+  height: 5px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
